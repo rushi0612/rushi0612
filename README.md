@@ -38,7 +38,7 @@ Currently leveling up toward **Full Stack MERN Development** (React + Node.js + 
 |--------|-----------|-------------|
 | [LoginSignup](https://github.com/rushi0612/LoginSignup) | React, Vite | User authentication UI with login & signup flow |
 | [LaraEcommerce](https://github.com/rushi0612/laraecommerce) | Laravel, PHP, CSS | E-commerce web app built with Laravel |
-| [create_db_using_react](https://github.com/rushi0612/create_db_using_react) | React, JavaScript | React-based data management project |
+| [create_db_using_react](https://github.com/rushi0612/react-admin-dashboard) | React, JavaScript | React-based data management project |
 
 ---
 
